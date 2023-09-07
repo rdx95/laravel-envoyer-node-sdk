@@ -1,0 +1,29 @@
+{
+  "name": "laravel-envoyer-node-sdk",
+  "version": "0.0.1",
+  "description": "JS sdk for laravel envoyer APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdx95/laravel-envoyer-node-sdk.git"
+  },
+  "keywords": [
+    "envoyer",
+    "laravel"
+  ],
+  "author": "james@three38inc.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdx95/laravel-envoyer-node-sdk/issues"
+  },
+  "homepage": "https://github.com/rdx95/laravel-envoyer-node-sdk#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "cross-fetch": "^4.0.0"
+  }
+}
