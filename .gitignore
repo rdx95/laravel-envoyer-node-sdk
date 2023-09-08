@@ -131,3 +131,4 @@ dist
 
 #others
 package-lock.json
+pnpm-lock.yaml
